@@ -1,0 +1,3 @@
+cd service-member
+
+docker build -t service-member .
